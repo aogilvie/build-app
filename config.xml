@@ -11,7 +11,7 @@
         Ally Ogilvie
     </author>
 
-    <gap:plugin name="com.phonegap.plugins.facebookconnect" version="0.8.0">
+    <gap:plugin name="com.phonegap.plugins.facebookconnect" version="0.9.0">
         <param name="APP_ID" value="515249445264694" />
         <param name="APP_NAME" value="TestMobasaka" />
     </gap:plugin>
