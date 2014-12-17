@@ -1,0 +1,1 @@
+A sample PhoneGap Build project for testing the PhoneGap Facebook Plugin
